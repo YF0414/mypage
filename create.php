@@ -45,9 +45,7 @@ include $inc_path .'/inc/head.php';
 <h2 class="gradient_h2">登録フロー</h2>
 
 <p class="attend_message">登録ボタンを押したあとに、ご登録のメールアドレスへ承認メッセージが届きます。そちらに記載されているURLをクリックして頂き登録完了となります。</p>
-<p class="caria_message">キャリアメールアドレス(@ezweb.ne.jp / @docomo.ne.jp / @au.com、@softbank.ne.jp / @i.softbank.jp / @uqmobile.jp / @ymobile.ne.jp / @rakuten.jp / @icloud.com / @me.com)でのご登録はできません。
-サイトからの折返しメールが確認できない場合には、お手数ですが迷惑メールフォルダをご確認ください。
-※携帯のメールアドレスの場合、ドメイン指定受信されている方は 【】をご指定下さい。</p>
+<p class="caria_message">※携帯のメールアドレスの場合、ドメイン指定受信されている方は 【oil-mafia.net】をご指定下さい。</p>
 
 <form class="register-form">
   <input type="text" placeholder="メールアドレス" />
